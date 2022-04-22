@@ -1,2 +1,3 @@
 master
 adding some text in master branch
+adding some confict in master branch
